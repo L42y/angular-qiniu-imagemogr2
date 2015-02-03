@@ -1,0 +1,21 @@
+{
+  "name": "angular-qiniu-imagemogr2",
+  "main": "angular-qiniu-imagemogr2.js",
+  "homepage": "https://github.com/L42y/angular-qiniu-imagemogr2",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "keywords": [
+    "angular",
+    "qiniu",
+    "image"
+  ],
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
